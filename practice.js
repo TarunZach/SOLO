@@ -78,3 +78,4 @@ $(rightPaddle).on('click', function() {
 $(leftPaddle).on('click', function() {
 	$('.menu').animate( { scrollLeft: '0' }, scrollDuration);
 });
+
